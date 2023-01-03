@@ -1,6 +1,6 @@
 ## Your Name
 
-An aspiring and enthusiastic software engineer with a deep passion for solving complex problems and creating innovative solutions. Degree? Nope, but I want you to pay close attention to my next few words, I make a darn good brownie. With two years of experience in teaching and impacting the lives of the youth, I am excited to bring my skills and passion to a new career in the attempt to impact the life of Wall-E and other computers. So why software? Has the endless possibilities and potential of technology and coding never occured to you? Well it has to me. Every project is an opportunity to push the boundaries of what is possible and make a positive impact in the world. Whether it is designing a software solution to solve a complex problem or creating a new application to improve people's daily lives, I am driven by a desire to create and innovate.
+An aspiring and enthusiastic software engineer with a deep passion for solving complex problems and creating innovative solutions. Degree? Nope, but I want you to pay close attention to my next few words, I make a darn good brownie. With two years of experience in teaching and impacting the lives of the youth, I am excited to bring my skills and passion to a new career in the attempt to impact the life of Wall-E and other computers. So why software you ask? Has the endless possibilities and potential of technology and coding never occured to you? Well it has to me. Every project is an opportunity to push the boundaries of what is possible and make a positive impact in the world. Whether it is designing a software solution to solve a complex problem or creating a new application to improve people's daily lives, I am driven by a desire to create and innovate.
 
 ## Projects
 
@@ -80,7 +80,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 Hobbies
 
 Football: I play (if you can call it that) weekly
+
 Gaming: A huge fan of strategy games such as Stronghold Crusader (Old is Gold)
+
 Food: Baking and eating just hit the spot
+
 
 
