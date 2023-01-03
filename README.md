@@ -13,11 +13,15 @@ An aspiring and enthusiastic software engineer with a deep passion for solving c
 
 **Al Misbaah Academy** (March 2020 to Present)  
 _Supplementary School Department Leader_ 
+
 • A position of responsibility in which one is accountable for the learning experience and development of over 100 children. 
-• Leading a team of staff by cooperating and providing feedback resulting in improved 
-outcomes for all. 
+
+• Leading a team of staff by cooperating and providing feedback resulting in improved outcomes for all. 
+
 • Liaising with parents to ensure a high level of communication and addressing any concerns. 
+
 • Using a wide range of computer systems and softwares to enhance the use of innovative technology within the classroom
+
 • Founded the Heroic Quality initiative aimed at character developlment in children.
 
 **Wahed Invest** (October 2022 to present)  
