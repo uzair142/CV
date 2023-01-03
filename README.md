@@ -1,6 +1,6 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+An aspiring and enthusiastic software engineer with a deep passion for solving complex problems and creating innovative solutions. Degree? Nope, but I want you to pay close attention to my next few words, I make a darn good brownie. With two years of experience in teaching and impacting the lives of the youth, I am excited to bring my skills and passion to a new career in the attempt to impact the life of Wall-E and other computers. So why software? Has the endless possibilities and potential of technology and coding never occured to you? Well it has to me. Every project is an opportunity to push the boundaries of what is possible and make a positive impact in the world. Whether it is designing a software solution to solve a complex problem or creating a new application to improve people's daily lives, I am driven by a desire to create and innovate.
 
 ## Projects
 
@@ -64,14 +64,23 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- A-Level Maths (B),
+  Preston College (2014-2016)
+- GCSE's (11A*'s - C's)
+  Stratford Academy (2009-2014)
+- Memorised the entire Qur'an
+- Studies equivalent to MA in Islamic Theology
+- Manuscripting work for a publishing company where paying attention to detail was essential
+- Community leader and speaker in front of thousands
+- Amazing brownie baker
 
-#### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Hobbies
+
+Football: I play (if you can call it that) weekly
+Gaming: A huge fan of strategy games such as Stronghold Crusader (Old is Gold)
+Food: Baking and eating just hit the spot
+
+
