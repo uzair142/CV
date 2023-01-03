@@ -64,15 +64,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Preston College (2014 to 2016)
   A-Level Maths (B)
+  
   AS-Level Biology (B)
  
 #### Jamiatul Ilm Wal Huda (2014 to 2020)
-  Studies equivalent to MA in Islamic Theology
-- Memorised the entire Qur'an
+Studies equivalent to MA in Islamic Theology
+  
+Memorised the entire Qur'an
 
 #### Whitethread Institute (2020 to 2022)
-#### Expertise of Legislation in Islamic Law (Specialisation Programme)
+Expertise of Legislation in Islamic Law (Specialisation Programme)
 A full-time post-graduate Islamic Studies course, focused on developing the ability to proficiently research and formulate legal responses to both complex and everyday issues, comprising of the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings and derivative rulings.
+
+
 
 - Manuscripting work for a publishing company where paying attention to detail was essential
 - Community leader and speaker in front of thousands
