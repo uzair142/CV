@@ -11,15 +11,18 @@ An aspiring and enthusiastic software engineer with a deep passion for solving c
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Al Misbaah Academy** (March 2020 to Present)  
+_Supplementary School Department Leader_ 
+• A position of responsibility in which one is accountable for the learning experience and development of over 100 children. 
+• Leading a team of staff by cooperating and providing feedback resulting in improved 
+outcomes for all. 
+• Liaising with parents to ensure a high level of communication and addressing any concerns. 
+• Using a wide range of computer systems and softwares to enhance the use of innovative technology within the classroom
+• Founded the Heroic Quality initiative aimed at character developlment in children.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
+**Wahed Invest** (October 2022 to present)  
+_Resarcher_
+• A job based role which involves researching contempory methods of business and finance including T&C's and determining how the investors can use them to maximise profits.
 
 ## Skills
 
@@ -53,7 +56,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2023 to December 2023)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -74,6 +77,7 @@ Memorised the entire Qur'an
 
 #### Whitethread Institute (2020 to 2022)
 Expertise of Legislation in Islamic Law (Specialisation Programme)
+
 A full-time post-graduate Islamic Studies course, focused on developing the ability to proficiently research and formulate legal responses to both complex and everyday issues, comprising of the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings and derivative rulings.
 
 
