@@ -28,6 +28,14 @@ _Supplementary School Department Leader_
 _Resarcher_
 • A job based role which involves researching contempory methods of business and finance including T&C's and determining how the investors can use them to maximise profits.
 
+**Seven Kings Muslim Educational Trust** (April 2020 to present)
+_Voluntary Community leader_
+
+• Community Service Counselor specializing in marital and grievances resolution
+• Delivering inspiring and thought-provoking sermons to a diverse congregation of over 500 individuals
+• Hosting programmes with over 1000 in-person participants and 2000 online participants.
+• Planned and co-ordinated youth activities and meet-ups
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
