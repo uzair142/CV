@@ -24,10 +24,12 @@ _Supplementary School Department Leader_
 
 • Founded the Heroic Quality initiative, which aims to promote character development in children.
 
+
 **Wahed Invest** (October 2022 to present)  
 _Resarcher_
 
 • Held a job that involved researching contemporary methods of business and finance, including terms and conditions, and determining how investors could use them to maximise profits.
+
 
 **Seven Kings Muslim Educational Trust** (April 2020 to present)
 _Voluntary Community leader_
