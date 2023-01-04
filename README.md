@@ -1,6 +1,6 @@
 ## Uzair Patel
 
-An aspiring and enthusiastic software engineer with a deep passion for solving complex problems and creating innovative solutions. Degree? Nope, but I want you to pay close attention to my next few words, I make a darn good brownie. With two years of experience in teaching and impacting the lives of the youth, I am excited to bring my skills and passion to a new career in the attempt to impact the life of Wall-E and other computers. So why software you ask? Has the endless possibilities and potential of technology and coding never occured to you? Well it has to me. Every project is an opportunity to push the boundaries of what is possible and make a positive impact in the world. Whether it is designing a software solution to solve a complex problem or creating a new application to improve people's daily lives, I am driven by a desire to create and innovate. Elon Musk? Bill Gates? Do I want to be like them? No, I want and will be better.
+As an aspiring software engineer with a deep passion for solving complex problems and creating innovative solutions, I am excited to bring my unique skills and experience to a new career in the tech industry. With two years of teaching and mentoring youth under my belt, I have developed strong communication and leadership skills that I believe will set me apart in the field of software engineering. I am driven by a desire to create and innovate, and am committed to continuously learning and improving my skills. Every project is an opportunity for me to push the boundaries of what is possible and make a positive impact in the world. I am confident that my passion, dedication, and skills will make me a valuable asset to any team. Do I want to be like Bill Gates and Elon Musk? No, I will be better.
 
 ## Projects
 
@@ -14,27 +14,31 @@ An aspiring and enthusiastic software engineer with a deep passion for solving c
 **Al Misbaah Academy** (March 2020 to Present)  
 _Supplementary School Department Leader_ 
 
-• A position of responsibility in which one is accountable for the learning experience and development of over 100 children. 
+• Assumed a position of responsibility, overseeing the learning experience and development of over 100 children. 
 
-• Leading a team of staff by cooperating and providing feedback resulting in improved outcomes for all. 
+• Led a team of staff, successfully cooperating and providing feedback to improve outcomes for all.
 
-• Liaising with parents to ensure a high level of communication and addressing any concerns. 
+• Liaised with parents to ensure a high level of communication and effectively addressed any concerns. 
 
 • Using a wide range of computer systems and softwares to enhance the use of innovative technology within the classroom
 
-• Founded the Heroic Quality initiative aimed at character developlment in children.
+• Founded the Heroic Quality initiative, which aims to promote character development in children.
 
 **Wahed Invest** (October 2022 to present)  
 _Resarcher_
-• A job based role which involves researching contempory methods of business and finance including T&C's and determining how the investors can use them to maximise profits.
+
+• Held a job that involved researching contemporary methods of business and finance, including terms and conditions, and determining how investors could use them to maximise profits.
 
 **Seven Kings Muslim Educational Trust** (April 2020 to present)
 _Voluntary Community leader_
 
-• Community Service Counselor specializing in marital and grievances resolution
-• Delivering inspiring and thought-provoking sermons to a diverse congregation of over 500 individuals
-• Hosting programmes with over 1000 in-person participants and 2000 online participants.
-• Planned and co-ordinated youth activities and meet-ups
+• Community Service Counselor specialising in marital and grievances resolution.
+
+• Delivering inspiring and thought-provoking sermons to a diverse congregation of over 500 individuals.
+
+• Successfully hosted programs with over 1000 in-person participants and 2000 online participants, demonstrating strong organisation and communication skills.
+
+• Planned and coordinated youth activities and meet-ups, demonstrating strong leadership and event management skills.
 
 ## Skills
 
@@ -78,9 +82,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - RSpec, Jasmine
 
 #### Preston College (2014 to 2016)
-  A-Level Maths (B)
+A-Level Maths (B)
   
-  AS-Level Biology (B)
+AS-Level Biology (B)
  
 #### Jamiatul Ilm Wal Huda (2014 to 2020)
 Studies equivalent to MA in Islamic Theology
@@ -90,7 +94,7 @@ Memorised the entire Qur'an
 #### Whitethread Institute (2020 to 2022)
 Expertise of Legislation in Islamic Law (Specialisation Programme)
 
-A full-time post-graduate Islamic Studies course, focused on developing the ability to proficiently research and formulate legal responses to both complex and everyday issues, comprising of the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings and derivative rulings.
+Completed a full-time post-graduate Islamic Studies course, focused on developing proficiency in researching and formulating legal responses to complex and everyday issues. Coursework included the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings, and derivative rulings. Demonstrated strong research and analytical skills, as well as an in-depth understanding of Islamic legal principles.
 
 
 
@@ -105,7 +109,7 @@ A full-time post-graduate Islamic Studies course, focused on developing the abil
 
 Football: I play (if you can call it that) weekly
 
-Gaming: A huge fan of strategy games such as Stronghold Crusader (Old is Gold)
+Gaming: Enthusisatic about strategy games such as Stronghold Crusader (Old is Gold)
 
 Food: Baking and eating just hit the spot
 
