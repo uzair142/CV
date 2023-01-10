@@ -25,10 +25,12 @@ _Supplementary School Department Leader_
 • Founded the Heroic Quality initiative, which aims to promote character development in children.
 
 
+
 **Wahed Invest** (October 2022 to present)  
 _Resarcher_
 
 • Researching contemporary methods of business and finance, including terms and conditions, and determining how investors could use them to maximise profits.
+
 
 
 **Seven Kings Muslim Educational Trust** (April 2020 to present)
@@ -80,9 +82,9 @@ My communication skills are further exemplified through my leadership in team me
 • Memorised the entire Qur'an
 
 #### Whitethread Institute (2020 to 2022)
-Expertise of Legislation in Islamic Law (Specialisation Programme)
+• Expertise of Legislation in Islamic Law (Specialisation Programme)
 
-Completed a full-time post-graduate Islamic Studies course, focused on developing proficiency in researching and formulating legal responses to complex and everyday issues. Coursework included the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings, and derivative rulings. Demonstrated strong research and analytical skills, as well as an in-depth understanding of Islamic legal principles.
+  Completed a full-time post-graduate Islamic Studies course, focused on developing proficiency in researching and formulating legal responses to complex and everyday   issues. Coursework included the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings, and derivative rulings.             Demonstrated strong research and analytical skills, as well as an in-depth understanding of Islamic legal principles.
 
 ## Hobbies
 
