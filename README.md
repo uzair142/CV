@@ -44,22 +44,11 @@ _Voluntary Community leader_
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
 #### Problem-solving
 
-My analytical and critical thinking skills allow me to break down and understand complex problems, and my ability to think creatively allows me to come up with effective solutions. I have a track record of successfully identifying and resolving issues in a variety of contexts, whether it be in technical or non-technical settings. The orchestration of a graduation ceremony for over 2000 attendees presented a multifaceted challenge, requiring a high degree of problem-solving acumen. As a member of a small, yet dedicated team, I assumed a leadership role in the coordination of the event and its ultimate success. The stringent time constraints imposed upon us necessitated the implementation of a methodical system of division of labor among team members. I strategically assigned specific areas of responsibility, such as the procurement of provisions, engagement of guest speakers, regulation of parking, and oversight of security. This approach not only enabled us to maximise our resources and capitalise on the strengths of team members, but also afforded us the ability to proactively anticipate and swiftly address any potential issues that may have arisen. Through my ability to dissect and tackle each problem individually, and my proficiency in delegating tasks effectively, the ceremony transpired seamlessly, a testament to the efficacy of my problem-solving skills.
+My analytical and critical thinking skills allow me to break down and understand complex problems, and my ability to think creatively allows me to come up with effective solutions. I have a track record of successfully identifying and resolving issues in a variety of contexts, whether it be in technical or non-technical settings. 
+
+The orchestration of a graduation ceremony for over 2000 attendees presented a multifaceted challenge, requiring a high degree of problem-solving acumen. As a member of a small, yet dedicated team, I assumed a leadership role in the coordination of the event and its ultimate success. The stringent time constraints imposed upon us necessitated the implementation of a methodical system of division of labor among team members. I strategically assigned specific areas of responsibility, such as the procurement of provisions, engagement of guest speakers, regulation of parking, and oversight of security. This approach not only enabled us to maximise our resources and capitalise on the strengths of team members, but also afforded us the ability to proactively anticipate and swiftly address any potential issues that may have arisen. Through my ability to dissect and tackle each problem individually, and my proficiency in delegating tasks effectively, the ceremony transpired seamlessly, a testament to the efficacy of my problem-solving skills.
 
 #### Communication
 
@@ -70,42 +59,32 @@ My communication skills are further exemplified through my leadership in team me
 ## Education
 
 #### Makers Academy (January 2023 to December 2023)
--Emphasised technologies: Ruby, JavaScript, SQL, React, Ruby on Rails.
+• Emphasised technologies: Ruby, JavaScript, SQL, React, Ruby on Rails.
 
--Acquired proficiency in Agile methodologies, Object-oriented design, Test-driven development, and Web development best practices.
+• Acquired proficiency in Agile methodologies, Object-oriented design, Test-driven development, and Web development best practices.
 
--Completed a capstone project, which serves as a demonstration of the assimilation and application of the technologies learned during the bootcamp.
+• Completed a capstone project, which serves as a demonstration of the assimilation and application of the technologies learned during the bootcamp.
 
--Developed essential personal skills such as self-directed learning, resilience, and team collaboration.
+• Developed essential personal skills such as self-directed learning, resilience, and team collaboration.
 
--Built a portfolio of work, and gained practical experience through a collaborative, fast-paced development environment
-
+• Built a portfolio of work, and gained practical experience through a collaborative, fast-paced development environment
 
 #### Preston College (2014 to 2016)
--A-Level Maths (B)
+• A-Level Maths (B)
   
--AS-Level Biology (B)
+• AS-Level Biology (B)
  
 #### Jamiatul Ilm Wal Huda (2014 to 2020)
--Studies equivalent to MA in Islamic Theology
+• Studies equivalent to MA in Islamic Theology
   
--Memorised the entire Qur'an
+• Memorised the entire Qur'an
 
 #### Whitethread Institute (2020 to 2022)
 Expertise of Legislation in Islamic Law (Specialisation Programme)
 
 Completed a full-time post-graduate Islamic Studies course, focused on developing proficiency in researching and formulating legal responses to complex and everyday issues. Coursework included the study of important texts on Islamic legal theory, legal maxims, the principles of issuing rulings, and derivative rulings. Demonstrated strong research and analytical skills, as well as an in-depth understanding of Islamic legal principles.
 
-
-
-- Manuscripting work for a publishing company where paying attention to detail was essential
-- Community leader and speaker in front of thousands
-- Amazing brownie baker
-
-
-
-
-#### Hobbies
+## Hobbies
 
 Football: I play (if you can call it that) weekly
 
