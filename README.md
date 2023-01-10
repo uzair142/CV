@@ -57,41 +57,39 @@ Consider skills relevent to software development. Then consider your best skills
 -What was the result?
 
 
-#### This Skill
+#### Problem-solving
 
-- Experience
-- Achievements
-- Evidence (STAR)
+My analytical and critical thinking skills allow me to break down and understand complex problems, and my ability to think creatively allows me to come up with effective solutions. I have a track record of successfully identifying and resolving issues in a variety of contexts, whether it be in technical or non-technical settings. The orchestration of a graduation ceremony for over 2000 attendees presented a multifaceted challenge, requiring a high degree of problem-solving acumen. As a member of a small, yet dedicated team, I assumed a leadership role in the coordination of the event and its ultimate success. The stringent time constraints imposed upon us necessitated the implementation of a methodical system of division of labor among team members. I strategically assigned specific areas of responsibility, such as the procurement of provisions, engagement of guest speakers, regulation of parking, and oversight of security. This approach not only enabled us to maximise our resources and capitalise on the strengths of team members, but also afforded us the ability to proactively anticipate and swiftly address any potential issues that may have arisen. Through my ability to dissect and tackle each problem individually, and my proficiency in delegating tasks effectively, the ceremony transpired seamlessly, a testament to the efficacy of my problem-solving skills.
 
-#### Another Skill
+#### Communication
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+I am a highly skilled communicator, with a proven ability to convey complex information in a clear and easy-to-understand manner. I have honed these skills through my experience as a school department lead and liaison with teachers, as well as my research background in finance. My time as a jurist required me to present legal arguments and research findings clearly and persuasively, while my experience in researching for an investment fund required me to break down technical financial and economic terms for laymen.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+My communication skills are further exemplified through my leadership in team meetings, and my ability to keep team members informed and up-to-date on progress, and my ability to identify potential issues and provide solutions. This is demonstrated throughout my time leading and coordinating teams, including the organization of a graduation ceremony for over 2000 attendees, showcasing my clear and effective communication skills. I am comfortable communicating with both technical and non-technical individuals, and my strong analytical and research skills coupled with my proficiency in communication make me a valuable asset for any organisation.
 
 ## Education
 
 #### Makers Academy (January 2023 to December 2023)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+-Emphasised technologies: Ruby, JavaScript, SQL, React, Ruby on Rails.
+
+-Acquired proficiency in Agile methodologies, Object-oriented design, Test-driven development, and Web development best practices.
+
+-Completed a capstone project, which serves as a demonstration of the assimilation and application of the technologies learned during the bootcamp.
+
+-Developed essential personal skills such as self-directed learning, resilience, and team collaboration.
+
+-Built a portfolio of work, and gained practical experience through a collaborative, fast-paced development environment
+
 
 #### Preston College (2014 to 2016)
-A-Level Maths (B)
+-A-Level Maths (B)
   
-AS-Level Biology (B)
+-AS-Level Biology (B)
  
 #### Jamiatul Ilm Wal Huda (2014 to 2020)
-Studies equivalent to MA in Islamic Theology
+-Studies equivalent to MA in Islamic Theology
   
-Memorised the entire Qur'an
+-Memorised the entire Qur'an
 
 #### Whitethread Institute (2020 to 2022)
 Expertise of Legislation in Islamic Law (Specialisation Programme)
